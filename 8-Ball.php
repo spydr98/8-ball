@@ -9,7 +9,7 @@ if (isset($_POST['question'])) {
 }
 
 //  file with answers, one anwser per line
-//	$quote = file ("h:\\the_tethered\\8-Ball\\8-Ball.txt");
+//	$quote = file ("8-Ball\\8-Ball.txt");
 //	$num = rand(0,count($quote)-1);
 //	echo $quote[$num];
 
