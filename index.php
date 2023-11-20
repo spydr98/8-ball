@@ -70,14 +70,14 @@ if ($result == TRUE) {
 
 <head>
 
-<title> The Tethered - Mistical 8 Ball </title>
-<link rel="icon" href="http://www.thetethered.com/favicon.ico" type="image/x-icon" />
-<link rel="shortcut icon" href="http://www.thetethered.com/favicon.ico" type="image/x-icon" />
+<title> Mistical 8 Ball </title>
+<link rel="icon" href="favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta http-equiv="cache-control" content="no-cache" />
 <meta http-equiv="pragma" content="no-cache" />
 <meta name="robots" content="index,follow,noarchive" />
-<link rel="stylesheet" title="The Tethered" type="text/css" href="http://www.thetethered.com/default.css" media="screen" />
+<link rel="stylesheet" title="The Tethered" type="text/css" href="default.css" media="screen" />
 
 </head>
 
@@ -131,7 +131,7 @@ print'									</select><br />
 							</ul>
 						</form>
 						<img src="8ball2.gif" alt="8-Ball" /><br />
-						<p>Back to the home of <a href="http://www.thetethered.com/">The Tethered</a></p>
+						<p>Back to the home of <a href="http://www.__replace_me__.com/">Home</a></p>
 ';
 
 ?>
